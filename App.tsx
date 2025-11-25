@@ -35,8 +35,7 @@ import {
   Sunset,
 } from "lucide-react-native";
 
-// const API_URL = "http://localhost:8080/api/reports";
-const API_URL = "https://scooptram-backend-v1.rj.r.appspot.com/api/reports";
+const API_URL = "http://localhost:8080/api/reports";
 // const API_URL = "https://3cckzgsl-8080.brs.devtunnels.ms/api/reports";
 
 // Habilitar animaciones para Android
